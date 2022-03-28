@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   line-height: 1.5;
-  font-family: "Merriweather";
+  font-family: 'Merriweather', serif;
 }
 
 *, *::before, *::after {
@@ -9,6 +9,7 @@ html {
 }
 
 body {
+  font-family: 'merriweather', serif;
   font-size: .9rem;
   font-weight: normal;
   padding: 0;
@@ -16,7 +17,7 @@ body {
 }
 
 header {
-  margin: 1rem;
+  font-family: 'merriweather', serif;  margin: 1rem;
   font-size: 1.8rem;
 }
 
